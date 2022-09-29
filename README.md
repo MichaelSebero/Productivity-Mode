@@ -1,4 +1,4 @@
- - install these first -
+/ install these first /
 
 pip install psutil
 
