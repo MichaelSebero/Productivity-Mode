@@ -4,7 +4,7 @@ pip install psutil
 
 pip install python-dateutil
 
-
+## Follow these steps
 
 . Type what application you want closed
 
