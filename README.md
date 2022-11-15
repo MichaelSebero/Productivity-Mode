@@ -14,4 +14,6 @@ Install tmux
 
 > I suggest to run this program through the console with tmux.
 
- EX: Step 1. run tmux Step 2. type python3 /home/folder/Productivity-Mode.py
+ Step 1. run tmux 
+ 
+ Step 2. type python3 /home/folder/Productivity-Mode.py
