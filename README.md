@@ -12,6 +12,6 @@
  
 . Type python3 /directory/to/Productivity-Mode.py
  
-. Type what application you want closed
+. Input what application you want closed
 
 . The application of your choosing won't be able to launch for 2 hours
